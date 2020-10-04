@@ -12,7 +12,7 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 <p align="center">
-  <img alt="lakes" src="images/lakes.jpg" width="25%">
+  <img alt="lakes" src="images/lakes.jpeg" width="50%">
 </p>
 
 For help getting started with Flutter, view our
