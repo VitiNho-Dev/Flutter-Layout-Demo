@@ -1,4 +1,4 @@
-# layuot_demo
+# layout_demo
 
 A new Flutter project.
 
